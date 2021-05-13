@@ -132,6 +132,7 @@ import java.util.Scanner;
 
 public class Programa
 {
+
     private int kgRop;
     
        private int Gradlavado;
